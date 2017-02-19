@@ -1,0 +1,37 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: daniel.shiffman@gmail.com
+Received: by 10.82.108.20 with SMTP id g20cs106039buc;
+        Wed, 7 Feb 2007 16:14:23 -0800 (PST)
+Received: by 10.100.167.7 with SMTP id p7mr3531426ane.1170893663230;
+        Wed, 07 Feb 2007 16:14:23 -0800 (PST)
+Return-Path: <bounce-itp-alumni-1676867@forums.nyu.edu>
+Received: from mx1.nyu.edu (MX1.NYU.EDU [128.122.108.241])
+        by mx.google.com with ESMTP id 8si3000892wrl.2007.02.07.16.14.22;
+        Wed, 07 Feb 2007 16:14:23 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounce-itp-alumni-1676867@forums.nyu.edu designates 128.122.108.241 as permitted sender)
+Received: from mail.alt.home.nyu.edu (H3.HOME.NYU.EDU [128.122.108.43])
+	by mx1.nyu.edu (8.13.8/8.13.8) with ESMTP id l180EMRa025873
+	for <daniel.shiffman@gmail.com>; Wed, 7 Feb 2007 19:14:22 -0500 (EST)
+Received: from mx2.nyu.edu ([128.122.108.242])
+ by mail.alt.home.nyu.edu (Sun Java System Messaging Server 6.2-4.03 (built Sep
+ 22 2005)) with ESMTP id <0JD400CVUBBYDCE0@mail.alt.home.nyu.edu> for
+ daniel.shiffman@gmail.com (ORCPT dts204@mail.nyu.edu); Wed,
+ 07 Feb 2007 19:14:22 -0500 (EST)
+Received: from I3.NYU.EDU (I3.NYU.EDU [128.122.108.195])
+	by mx2.nyu.edu (8.13.8/8.13.8) with SMTP id l180DrgA028639	for
+ <daniel.shiffman@nyu.edu>; Wed, 07 Feb 2007 19:14:22 -0500 (EST)
+Date: Wed, 07 Feb 2007 19:16:52 -0500
+From: Midori Yasuda <midori.yasuda@nyu.edu>
+Subject: Creative Capital Grants in Film/Video & Visual Arts
+To: ITP Alumni <itp-alumni@forums.nyu.edu>
+Reply-to: ITP Alumni <itp-alumni@forums.nyu.edu>
+Message-id: 
+ <LYRIS-1676867-4958263-2007.02.07-19.14.14--daniel.shiffman#nyu.edu@forums.nyu.edu>
+MIME-version: 1.0
+X-Mailer: Apple Mail (2.752.3)
+Content-type: text/plain; charset=US-ASCII; delsp=yes; format=flowed
+Content-transfer-encoding: 7BIT
+List-Unsubscribe: <mailto:leave-itp-alumni-1676867C@forums.nyu.edu>
+
+
+Hi welcome...
